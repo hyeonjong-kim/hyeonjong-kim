@@ -14,7 +14,7 @@
 ### Data Processing System
 <p align="left">
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafkak&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>&nbsp 
 </p>
 
