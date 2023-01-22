@@ -13,13 +13,16 @@
 
 ### Data Processing System
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache Hadoop-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache Zookeeper-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>&nbsp 
 </p>
 
 ### Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache Hbase-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
+</p>
 
 ## Follow Me
 <p align="left">
