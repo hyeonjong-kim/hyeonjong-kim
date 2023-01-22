@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 </p>
 
+### Deep Learning
+
 ### OS
 <p align="left">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/></a>&nbsp
@@ -37,9 +39,12 @@
 </p>
 
 ### Network
-<img src="https://img.shields.io/badge/InfiBand-000000?style=flat-square&logo=&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IPoIB-000000?style=flat-square&logo=&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/RDMA-000000?style=flat-square&logo=&logoColor=white"/></a>
+<p align="left">
+<img src="https://img.shields.io/badge/InfiBand-000000?style=flat-square&logo=&logoColor=white"/></a>>&nbsp
+<img src="https://img.shields.io/badge/IPoIB-000000?style=flat-square&logo=&logoColor=white"/></a>>&nbsp
+<img src="https://img.shields.io/badge/RDMA-000000?style=flat-square&logo=&logoColor=white"/></a>>&nbsp
+</p>
+
 ## Follow Me
 <p align="left">
  <!--
