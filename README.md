@@ -27,6 +27,11 @@
 </p>
 
 ### Deep Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
+</p>
 
 ### OS
 <p align="left">
@@ -40,9 +45,9 @@
 
 ### Network
 <p align="left">
-<img src="https://img.shields.io/badge/InfiBand-000000?style=flat-square&logo=&logoColor=white"/></a>>&nbsp
-<img src="https://img.shields.io/badge/IPoIB-000000?style=flat-square&logo=&logoColor=white"/></a>>&nbsp
-<img src="https://img.shields.io/badge/RDMA-000000?style=flat-square&logo=&logoColor=white"/></a>>&nbsp
+<img src="https://img.shields.io/badge/InfiBand-000000?style=flat-square&logo=&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/IPoIB-000000?style=flat-square&logo=&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/RDMA-000000?style=flat-square&logo=&logoColor=white"/></a>&nbsp
 </p>
 
 ## Follow Me
