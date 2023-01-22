@@ -37,6 +37,9 @@
 </p>
 
 ### Network
+<img src="https://img.shields.io/badge/InfiBand-000000?style=flat-square&logo=&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/IPoIB-000000?style=flat-square&logo=&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/RDMA-000000?style=flat-square&logo=&logoColor=white"/></a>&nbsp
 
 ## Follow Me
 <p align="left">
