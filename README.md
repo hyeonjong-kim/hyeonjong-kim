@@ -23,6 +23,7 @@
 ### Database
 <p align="left">
   <img src="https://img.shields.io/badge/Apache Hbase-7ED321?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 </p>
 
 ## Follow Me
