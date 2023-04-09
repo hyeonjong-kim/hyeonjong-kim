@@ -9,6 +9,49 @@
 - 김현종, 김다솔, 남궁주홍, 길명선, 문양세, “Ethernet과 InfiniBand 환경에서 Vertex-centric 그래프 처리 성능 분석,” 한국정보과학회 학술발표논문집, Vol. 2021, No. 12, pp. 87-89, 2021.
 - 김현종, 길명선, 문양세, “인피니밴드 네트워크에서 분산 병렬 그래프 데이터 처리의 성능 개선,” 한국정보과학회 학술발표논문집, Vol. 2022, No. 6, pp. 89-91, 2022.
 
+## Project
+1. Apache Kafka를 이용한 채팅 시스템 개발
+- 기간: 2019/05~2019/06
+- 메시지 수신에 Kafka의 컨슈머를 이용하고 메시지 송신에 프로듀서 기능을 사용하여 채팅 시스템을 만든 개인 프로젝트입니다.
+- 사용 프로그램: Apache Kafka, CentOS, Gradle, Intellij
+- 사용언어: Java
+- git hub: https://github.com/hyeonjong-kim/KafkaChatting
+
+2. Apache Hadoop을 이용한 뉴스 데이터 수집
+- 기간: 2019/10~2019/11
+- MapReduce를 이용하여 뉴스 데이터의 주요 키워드를 수집하여 이를 Web에 띄어주는 프로젝트입니다.
+- 역할: Hadoop 설치 및 MapReduce 프로그래밍
+- 사용 프로그램: Apache Hadoop, CentOS, Gradle, Intellij, Selenium
+- 사용언어: Java, HTML, JS
+
+3. 욕설 탐지 딥러닝 모델 개발
+- 기간: 2020/01~2020/06
+- KoBERT, KoELECTRA를 이용하여 채팅 데이터에서 욕설을 탐지하는 딥러닝 모델을 개발한 개인 프로젝트입니다.
+- 사용 프로그램: KoBERT, KoELECTRA, Tensorflow, PyTorch, Ubuntu, PyCharm, Anaconda
+- 사용언어: Python
+- git hub: https://github.com/hyeonjong-kim/DetectAbuseWord
+
+4. Apache Storm을 이용하여 딥러닝 모델 serving
+- 기간: 2020/07~2020/08
+- 욕설 탐지 모델의 추론 가속화를 위해 Storm의 Bolt에 모델 serving을 수행한 개인 프로젝트입니다.
+- 사용 프로그램: Apache Storm CentOS, Gradle, Intellij, Tensorflow for Java, Tensorflow
+- 사용언어: Java, Python
+
+5. IoT 데이터 수집 및 정제, 저장 시스템 개발
+- 기간: 2020/10~2020/12
+- ETRI 주관 IoT 데이터 수집 및 정제, 저장 시스템 개발 프로젝트
+- 역할: Spring Boot를 사용하여 API 제작, HBase에 Kerberos 인증 시스템 연동, IoT 데이터 송신을 위한 MQTT 활용
+- 사용 프로그램: MQTT, Apache Kafka, Apache HBase, CentOS, Gradle, Intellij, Kerberos, Spring Boot
+- 사용언어: Python, Java
+
+6. 초거대 그래프의 지능적 고속 처리를 위한 그래프 DBMS 기술 개발
+- 기간: 2021/01~2022/12
+-  포항공대에서 주관한 그래프 고속 처리와 DBMS 개발 연구 과제입니다.
+- 역할: InfiniBand의 RDMA(Remote Direct Memory Access) 프로토콜을 이용한 그래프 처리 고속화 및 프로토타입 개발
+- 사용 프로그램: IBverbs, CentOS, Apache Hadoop, Apache Zookeeper, HDFS for C, Zookeepr for C, vscode
+- 사용언어: C++
+- git hub: https://github.com/hyeonjong-kim/PiGraph
+
 ## Tech Stack
 ### Laguage
 <p align="left">
