@@ -1,13 +1,11 @@
 ## Hyeonjong Kim 
 데이터 엔지니어를 꿈꾸는 취준생입니다.
 
-## Papers
-- 김현종, 남궁주홍, 손시운, 길명선, 문양세, “임베딩 교체에 따른 한국어 욕설 탐지 모델 성능 비교,” 한국정보과학회 학술발표논문집, Vol. 2020, No. 7, pp. 1444-1446, 2020.
-- 김현종, 남궁주홍, 길명선, 문양세, 최형진, “임베딩 교체에 따른 구어체 텍스트 탐지 모델 성능 비교,” 데이타베이스 연구, Vol. 36, No. 2, pp. 45-55, 2020.
-- H. Kim, J. Namgung, S. Son, M. Gil, and Y. Moon, “Performance Comparison of Spoken Language Detection Models with Embedding Replacement,” IEEE International Conference on Big Data and Smart Computing, Jeju Island, Korea(South), pp. 106-109, Mar. 2021.
-- 김현종, 길명선, 문양세, “DGA 도메인 탐지를 위한 LSTM과 GRU 모델 비교,” 한국정보과학회 학술발표논문집, Vol. 2021, No. 6, pp. 122-124, 2021.
-- 김현종, 김다솔, 남궁주홍, 길명선, 문양세, “Ethernet과 InfiniBand 환경에서 Vertex-centric 그래프 처리 성능 분석,” 한국정보과학회 학술발표논문집, Vol. 2021, No. 12, pp. 87-89, 2021.
-- 김현종, 길명선, 문양세, “인피니밴드 네트워크에서 분산 병렬 그래프 데이터 처리의 성능 개선,” 한국정보과학회 학술발표논문집, Vol. 2022, No. 6, pp. 89-91, 2022.
+## Contact
+<p align="left">
+  <a href="mailto:cowkey206@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
+- tech blog: https://soso-data-engineering.tistory.com/
 
 ## Project
 1. Apache Kafka를 이용한 채팅 시스템 개발
@@ -51,6 +49,14 @@
 - 사용 프로그램: IBverbs, CentOS, Apache Hadoop, Apache Zookeeper, HDFS for C, Zookeepr for C, vscode
 - 사용언어: C++
 - git hub: https://github.com/hyeonjong-kim/PiGraph
+
+## Papers
+- 김현종, 남궁주홍, 손시운, 길명선, 문양세, “임베딩 교체에 따른 한국어 욕설 탐지 모델 성능 비교,” 한국정보과학회 학술발표논문집, Vol. 2020, No. 7, pp. 1444-1446, 2020.
+- 김현종, 남궁주홍, 길명선, 문양세, 최형진, “임베딩 교체에 따른 구어체 텍스트 탐지 모델 성능 비교,” 데이타베이스 연구, Vol. 36, No. 2, pp. 45-55, 2020.
+- H. Kim, J. Namgung, S. Son, M. Gil, and Y. Moon, “Performance Comparison of Spoken Language Detection Models with Embedding Replacement,” IEEE International Conference on Big Data and Smart Computing, Jeju Island, Korea(South), pp. 106-109, Mar. 2021.
+- 김현종, 길명선, 문양세, “DGA 도메인 탐지를 위한 LSTM과 GRU 모델 비교,” 한국정보과학회 학술발표논문집, Vol. 2021, No. 6, pp. 122-124, 2021.
+- 김현종, 김다솔, 남궁주홍, 길명선, 문양세, “Ethernet과 InfiniBand 환경에서 Vertex-centric 그래프 처리 성능 분석,” 한국정보과학회 학술발표논문집, Vol. 2021, No. 12, pp. 87-89, 2021.
+- 김현종, 길명선, 문양세, “인피니밴드 네트워크에서 분산 병렬 그래프 데이터 처리의 성능 개선,” 한국정보과학회 학술발표논문집, Vol. 2022, No. 6, pp. 89-91, 2022.
 
 ## Tech Stack
 ### Laguage
@@ -99,11 +105,4 @@
 <img src="https://img.shields.io/badge/RDMA-000000?style=flat-square&logo=&logoColor=white"/></a>&nbsp
 </p>
 
-## Follow Me
-<p align="left">
- <!--
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
--->
-  <a href="mailto:cowkey206@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
+
