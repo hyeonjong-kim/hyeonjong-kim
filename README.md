@@ -5,7 +5,8 @@
 <p align="left">
   <a href="mailto:cowkey206@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
-### tech blog 
+
+## tech blog 
 - https://soso-data-engineering.tistory.com/
 
 ## Project
