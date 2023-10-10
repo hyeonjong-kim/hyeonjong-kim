@@ -88,6 +88,24 @@ AI 플랫폼 개발자를 꿈꾸는 취준생입니다.
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
 </p>
 
+### Front-end
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-66CCFF?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache Zookeeper-F09D13?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache Storm-D77310?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>&nbsp 
+</p>
+
+### Front-end
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache Zookeeper-F09D13?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache Storm-D77310?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>&nbsp 
+</p>
+
 ### OS
 <p align="left">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/></a>&nbsp
