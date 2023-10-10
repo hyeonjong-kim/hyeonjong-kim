@@ -92,7 +92,7 @@ AI 플랫폼 개발자를 꿈꾸는 취준생입니다.
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-66CCFF?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-F09D13?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Vue.js-231F20?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbs
+  <img src="https://img.shields.io/badge/Vue.js-231F20?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
 </p>
 
 ### Back-end
