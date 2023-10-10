@@ -6,9 +6,6 @@
   <a href="mailto:cowkey206@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-## Tech blog 
-- https://soso-data-engineering.tistory.com/
-
 ## Project
 1. Apache Kafka를 이용한 채팅 시스템 개발
 - 기간: 2019/05~2019/06
@@ -37,15 +34,15 @@
 - 사용 프로그램: Apache Storm CentOS, Gradle, Intellij, Tensorflow for Java, Tensorflow
 - 사용언어: Java, Python
 
-5. IoT 데이터 수집 및 정제, 저장 시스템 개발
-- 기간: 2020/10~2020/12
+5. 데이터맵 기반 지능형 빅데이터 탐색·활용 핵심 기술 개발
+- 기간: 2021/01~2022/12
 - ETRI 주관 IoT 데이터 수집 및 정제, 저장 시스템 개발 프로젝트
 - 역할: Spring Boot를 사용하여 API 제작, HBase에 Kerberos 인증 시스템 연동, IoT 데이터 송신을 위한 MQTT 활용
 - 사용 프로그램: MQTT, Apache Kafka, Apache HBase, CentOS, Gradle, Intellij, Kerberos, Spring Boot
 - 사용언어: Python, Java
 
 6. 초거대 그래프의 지능적 고속 처리를 위한 그래프 DBMS 기술 개발
-- 기간: 2021/01~2022/12
+- 기간: 2021/04~2022/12
 -  포항공대에서 주관한 그래프 고속 처리와 DBMS 개발 연구 과제입니다.
 - 역할: InfiniBand의 RDMA(Remote Direct Memory Access) 프로토콜을 이용한 그래프 처리 고속화 및 프로토타입 개발
 - 사용 프로그램: IBverbs, CentOS, Apache Hadoop, Apache Zookeeper, HDFS for C, Zookeepr for C, vscode
@@ -59,6 +56,7 @@
 - 김현종, 길명선, 문양세, “DGA 도메인 탐지를 위한 LSTM과 GRU 모델 비교,” 한국정보과학회 학술발표논문집, Vol. 2021, No. 6, pp. 122-124, 2021.
 - 김현종, 김다솔, 남궁주홍, 길명선, 문양세, “Ethernet과 InfiniBand 환경에서 Vertex-centric 그래프 처리 성능 분석,” 한국정보과학회 학술발표논문집, Vol. 2021, No. 12, pp. 87-89, 2021.
 - 김현종, 길명선, 문양세, “인피니밴드 네트워크에서 분산 병렬 그래프 데이터 처리의 성능 개선,” 한국정보과학회 학술발표논문집, Vol. 2022, No. 6, pp. 89-91, 2022.
+- 김현종, 길명선, 문양세, “인피니밴드 네트워크에서 분산 병렬 그래프 데이터 처리의 성능 개선,” 정보과학회논문지, Vol. 50, No. 4, pp. 359-367, 2023.
 
 ## Tech Stack
 ### Laguage
