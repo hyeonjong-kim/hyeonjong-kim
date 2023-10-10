@@ -1,5 +1,5 @@
 ## Hyeonjong Kim 
-데이터 엔지니어를 꿈꾸는 취준생입니다.
+AI 플랫폼 개발자를 꿈꾸는 취준생입니다.
 
 ## Contact
 <p align="left">
