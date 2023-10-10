@@ -90,20 +90,17 @@ AI 플랫폼 개발자를 꿈꾸는 취준생입니다.
 
 ### Front-end
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML-66CCFF?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Zookeeper-F09D13?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Storm-D77310?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-66CCFF?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS-F09D13?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-231F20?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbs
 </p>
 
-### Front-end
+### Back-end
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Zookeeper-F09D13?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Storm-D77310?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring-66CCFF?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JSP-F09D13?style=flat-square&logo=JSP&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Servelt-231F20?style=flat-square&logo=Servelt&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JPA-D77310?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp 
 </p>
 
 ### OS
