@@ -1,5 +1,5 @@
 ## Hyeonjong Kim 
-AI 플랫폼 개발자를 꿈꾸는 취준생입니다.
+개발자&엔지니어를 꿈꾸는 취준생입니다.
 
 ## Contact
 <p align="left">
@@ -57,67 +57,5 @@ AI 플랫폼 개발자를 꿈꾸는 취준생입니다.
 - 김현종, 김다솔, 남궁주홍, 길명선, 문양세, “Ethernet과 InfiniBand 환경에서 Vertex-centric 그래프 처리 성능 분석,” 한국정보과학회 학술발표논문집, Vol. 2021, No. 12, pp. 87-89, 2021.
 - 김현종, 길명선, 문양세, “인피니밴드 네트워크에서 분산 병렬 그래프 데이터 처리의 성능 개선,” 한국정보과학회 학술발표논문집, Vol. 2022, No. 6, pp. 89-91, 2022.
 - 김현종, 길명선, 문양세, “인피니밴드 네트워크에서 분산 병렬 그래프 데이터 처리의 성능 개선,” 정보과학회논문지, Vol. 50, No. 4, pp. 359-367, 2023.
-
-## Tech Stack
-### Laguage
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-</p>
-
-### Data Processing System
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Zookeeper-F09D13?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Storm-D77310?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>&nbsp 
-</p>
-
-### Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache Hbase-7ED321?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
-</p>
-
-### Deep Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
-</p>
-
-### Front-end
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-66CCFF?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS-F09D13?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Vue.js-231F20?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
-</p>
-
-### Back-end
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring-66CCFF?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JSP-F09D13?style=flat-square&logo=JSP&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Servelt-231F20?style=flat-square&logo=Servelt&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JPA-D77310?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp 
-</p>
-
-### OS
-<p align="left">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat-square&logo=&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp
-</p>
-
-### Network
-<p align="left">
-<img src="https://img.shields.io/badge/InfiBand-000000?style=flat-square&logo=&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/IPoIB-000000?style=flat-square&logo=&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/RDMA-000000?style=flat-square&logo=&logoColor=white"/></a>&nbsp
-</p>
 
 
